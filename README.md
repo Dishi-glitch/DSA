@@ -7,6 +7,7 @@ This repository has all the question i have solved in DSA.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Dishi-glitch/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Dishi-glitch/DSA/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -15,5 +16,10 @@ This repository has all the question i have solved in DSA.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dishi-glitch/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Dishi-glitch/DSA/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Dishi-glitch/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
