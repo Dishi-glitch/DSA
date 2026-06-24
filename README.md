@@ -21,6 +21,7 @@ This repository has all the question i have solved in DSA.
 | [0189-rotate-array](https://github.com/Dishi-glitch/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dishi-glitch/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/Dishi-glitch/DSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dishi-glitch/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
