@@ -37,6 +37,7 @@ This repository has all the question i have solved in DSA.
 | [0189-rotate-array](https://github.com/Dishi-glitch/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dishi-glitch/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dishi-glitch/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -113,4 +114,5 @@ This repository has all the question i have solved in DSA.
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
