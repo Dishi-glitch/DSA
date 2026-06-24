@@ -6,6 +6,7 @@ This repository has all the question i have solved in DSA.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dishi-glitch/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Dishi-glitch/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Dishi-glitch/DSA/tree/master/0048-rotate-image) |
@@ -71,6 +72,7 @@ This repository has all the question i have solved in DSA.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dishi-glitch/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Dishi-glitch/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
