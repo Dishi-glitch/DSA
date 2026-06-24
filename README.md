@@ -6,6 +6,7 @@ This repository has all the question i have solved in DSA.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dishi-glitch/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Dishi-glitch/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Dishi-glitch/DSA/tree/master/0075-sort-colors) |
@@ -14,6 +15,7 @@ This repository has all the question i have solved in DSA.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dishi-glitch/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Dishi-glitch/DSA/tree/master/0075-sort-colors) |
 ## Dynamic Programming
@@ -29,5 +31,6 @@ This repository has all the question i have solved in DSA.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dishi-glitch/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Dishi-glitch/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
