@@ -8,6 +8,7 @@ This repository has all the question i have solved in DSA.
 | ------- |
 | [0015-3sum](https://github.com/Dishi-glitch/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Dishi-glitch/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dishi-glitch/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Dishi-glitch/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Dishi-glitch/DSA/tree/master/0118-pascals-triangle) |
@@ -33,4 +34,12 @@ This repository has all the question i have solved in DSA.
 | ------- |
 | [0015-3sum](https://github.com/Dishi-glitch/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Dishi-glitch/DSA/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Dishi-glitch/DSA/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Dishi-glitch/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
