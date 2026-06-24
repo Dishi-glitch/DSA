@@ -19,6 +19,7 @@ This repository has all the question i have solved in DSA.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dishi-glitch/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Dishi-glitch/DSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository has all the question i have solved in DSA.
 | [0075-sort-colors](https://github.com/Dishi-glitch/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dishi-glitch/DSA/tree/master/0169-majority-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ This repository has all the question i have solved in DSA.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dishi-glitch/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,4 +81,16 @@ This repository has all the question i have solved in DSA.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dishi-glitch/DSA/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
