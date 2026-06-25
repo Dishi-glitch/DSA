@@ -23,6 +23,7 @@ This repository has all the question i have solved in DSA.
 | [0283-move-zeroes](https://github.com/Dishi-glitch/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Dishi-glitch/DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Dishi-glitch/DSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dishi-glitch/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dishi-glitch/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -76,6 +77,7 @@ This repository has all the question i have solved in DSA.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dishi-glitch/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Dishi-glitch/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
