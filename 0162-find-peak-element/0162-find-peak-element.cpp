@@ -3,23 +3,27 @@ public:
     int findPeakElement(vector<int>& nums) {
 
         int low = 0;
-        int high = nums.size() - 1;
+        int n = nums.size();
+        int high = n - 1;
+
+        if(n == 1) return 0;
+        if(nums[0] > nums[1]) return 0;
+        if(nums[n-1] > nums[n-2]) return n-1;
 
         while(low < high){
 
             int mid = low + (high - low) / 2;
 
             if(nums[mid] < nums[mid + 1]){
+                // increasing slope
                 low = mid + 1;
             }
             else{
+                // decreasing slope
                 high = mid;
             }
         }
 
-        if(low >= 0 && low < nums.size())
-            return low;
-
-        return -1;
+        return low;
     }
 };
