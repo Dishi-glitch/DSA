@@ -12,13 +12,11 @@ public:
 
             if(nums[low] <= nums[mid]){
 
-                // left half sorted
                 ans = min(ans, nums[low]);
                 low = mid + 1;
             }
             else{
 
-                // right half sorted, minimum is around mid
                 ans = min(ans, nums[mid]);
                 high = mid - 1;
             }
