@@ -34,6 +34,7 @@ This repository has all the question i have solved in DSA.
 | [0704-binary-search](https://github.com/Dishi-glitch/DSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dishi-glitch/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/Dishi-glitch/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dishi-glitch/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ This repository has all the question i have solved in DSA.
 | [0048-rotate-image](https://github.com/Dishi-glitch/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Dishi-glitch/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dishi-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Dishi-glitch/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ This repository has all the question i have solved in DSA.
 | [0540-single-element-in-a-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dishi-glitch/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/Dishi-glitch/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
