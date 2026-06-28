@@ -22,6 +22,7 @@ This repository has all the question i have solved in DSA.
 | [0088-merge-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Dishi-glitch/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dishi-glitch/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Dishi-glitch/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dishi-glitch/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Dishi-glitch/DSA/tree/master/0169-majority-element) |
@@ -104,6 +105,7 @@ This repository has all the question i have solved in DSA.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Dishi-glitch/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Dishi-glitch/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Dishi-glitch/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
