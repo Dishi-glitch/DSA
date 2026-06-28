@@ -77,6 +77,7 @@ This repository has all the question i have solved in DSA.
 | [0048-rotate-image](https://github.com/Dishi-glitch/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dishi-glitch/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Dishi-glitch/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Dishi-glitch/DSA/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -103,11 +104,13 @@ This repository has all the question i have solved in DSA.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Dishi-glitch/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dishi-glitch/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Dishi-glitch/DSA/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
