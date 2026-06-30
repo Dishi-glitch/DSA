@@ -117,6 +117,7 @@ This repository has all the question i have solved in DSA.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dishi-glitch/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Dishi-glitch/DSA/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@ This repository has all the question i have solved in DSA.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
