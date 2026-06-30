@@ -47,6 +47,7 @@ This repository has all the question i have solved in DSA.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Dishi-glitch/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Dishi-glitch/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Dishi-glitch/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dishi-glitch/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -123,6 +124,7 @@ This repository has all the question i have solved in DSA.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dishi-glitch/DSA/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Dishi-glitch/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Dishi-glitch/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -147,6 +149,7 @@ This repository has all the question i have solved in DSA.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Dishi-glitch/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0876-middle-of-the-linked-list) |
