@@ -4,7 +4,7 @@ public:
 
         int n = nums.size();
 
-        k = k % n;   // handle k > n
+       k = k % n; // Handle cases where k is greater than array size
 
         // reverse whole array
         reverse(nums.begin(), nums.end());
