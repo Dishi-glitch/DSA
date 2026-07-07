@@ -13,6 +13,7 @@ This repository has all the question i have solved in DSA.
 | [0033-search-in-rotated-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dishi-glitch/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Dishi-glitch/DSA/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Dishi-glitch/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dishi-glitch/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Dishi-glitch/DSA/tree/master/0056-merge-intervals) |
@@ -173,4 +174,8 @@ This repository has all the question i have solved in DSA.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Dishi-glitch/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
