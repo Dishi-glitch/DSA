@@ -160,6 +160,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Dishi-glitch/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dishi-glitch/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
@@ -177,6 +178,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0234-palindrome-linked-list) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Dishi-glitch/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,4 +189,5 @@ This repository has all the questions I have solved in DSA on Leetcode.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dishi-glitch/DSA/tree/master/0125-valid-palindrome) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Dishi-glitch/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
