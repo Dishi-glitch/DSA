@@ -29,6 +29,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | [0162-find-peak-element](https://github.com/Dishi-glitch/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Dishi-glitch/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dishi-glitch/DSA/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/Dishi-glitch/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dishi-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Dishi-glitch/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -180,4 +181,5 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | ------- |
 | [0039-combination-sum](https://github.com/Dishi-glitch/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dishi-glitch/DSA/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Dishi-glitch/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
