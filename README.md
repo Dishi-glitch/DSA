@@ -60,6 +60,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | [0234-palindrome-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Dishi-glitch/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dishi-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Dishi-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dishi-glitch/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -141,6 +142,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | [0142-linked-list-cycle-ii](https://github.com/Dishi-glitch/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dishi-glitch/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dishi-glitch/DSA/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/Dishi-glitch/DSA/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Dishi-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -189,5 +192,6 @@ This repository has all the questions I have solved in DSA on Leetcode.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dishi-glitch/DSA/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Dishi-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dishi-glitch/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
