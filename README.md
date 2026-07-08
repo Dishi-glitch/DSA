@@ -52,6 +52,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Dishi-glitch/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dishi-glitch/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Dishi-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Dishi-glitch/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dishi-glitch/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dishi-glitch/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -182,4 +183,8 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | [0039-combination-sum](https://github.com/Dishi-glitch/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dishi-glitch/DSA/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Dishi-glitch/DSA/tree/master/0216-combination-sum-iii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Dishi-glitch/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
