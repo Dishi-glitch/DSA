@@ -197,9 +197,14 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | [0125-valid-palindrome](https://github.com/Dishi-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Dishi-glitch/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Dishi-glitch/DSA/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/Dishi-glitch/DSA/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dishi-glitch/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dishi-glitch/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Dishi-glitch/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
