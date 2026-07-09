@@ -144,6 +144,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | [0142-linked-list-cycle-ii](https://github.com/Dishi-glitch/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dishi-glitch/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dishi-glitch/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Dishi-glitch/DSA/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/Dishi-glitch/DSA/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
@@ -195,6 +196,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dishi-glitch/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Dishi-glitch/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Dishi-glitch/DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Dishi-glitch/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Dishi-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Dishi-glitch/DSA/tree/master/0796-rotate-string) |
