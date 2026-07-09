@@ -185,6 +185,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dishi-glitch/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Dishi-glitch/DSA/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Dishi-glitch/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dishi-glitch/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
@@ -202,6 +203,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | [0344-reverse-string](https://github.com/Dishi-glitch/DSA/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Dishi-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Dishi-glitch/DSA/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Dishi-glitch/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dishi-glitch/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
