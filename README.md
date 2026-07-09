@@ -95,6 +95,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | [0050-powx-n](https://github.com/Dishi-glitch/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Dishi-glitch/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dishi-glitch/DSA/tree/master/0231-power-of-two) |
+| [1903-largest-odd-number-in-string](https://github.com/Dishi-glitch/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -154,6 +155,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dishi-glitch/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/Dishi-glitch/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,6 +206,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 | [0567-permutation-in-string](https://github.com/Dishi-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Dishi-glitch/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Dishi-glitch/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Dishi-glitch/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dishi-glitch/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
