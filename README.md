@@ -91,6 +91,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dishi-glitch/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Dishi-glitch/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dishi-glitch/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Dishi-glitch/DSA/tree/master/0189-rotate-array) |
@@ -141,6 +142,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dishi-glitch/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Dishi-glitch/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Dishi-glitch/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dishi-glitch/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dishi-glitch/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -198,6 +200,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dishi-glitch/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dishi-glitch/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dishi-glitch/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Dishi-glitch/DSA/tree/master/0125-valid-palindrome) |
