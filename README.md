@@ -2,7 +2,7 @@
 This repository has all the questions I have solved in DSA on Leetcode.         
    
 <!---LeetCode Topics Start-->   
-# LeetCode Topics
+# LeetCode Topics 
 ## Array
 |  | 
 | ------- |
