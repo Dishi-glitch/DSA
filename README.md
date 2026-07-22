@@ -6,7 +6,7 @@ This repository has all the questions I have solved in DSA on Leetcode.
 ## Array
 |  | 
 | ------- |
-| [0001-two-sum](https://github.com/Dishi-glitch/DSA/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/Dishi-glitch/DSA/tree/master/0001-two-sum) | 
 | [0014-longest-common-prefix](https://github.com/Dishi-glitch/DSA/tree/master/0014-longest-common-prefix) | 
 | [0015-3sum](https://github.com/Dishi-glitch/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dishi-glitch/DSA/tree/master/0018-4sum) | 
